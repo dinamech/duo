@@ -309,7 +309,7 @@ if [ "$AFTER" == "1" ]; then
   cat<<-"EOF"
 
 	   (\____/)         
-	     (_oo_)         mennzies.us/duo
+	     (_oo_)         dinamech/duo
 	       (O)          By your command ...
 	     __||__    \)  
 	  []/______\[] /    
